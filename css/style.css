@@ -108,7 +108,7 @@ i {
 }
 
 #search a img {
-  width: 240px;
+  width: 150px;
   height: 90px;
 }
 
@@ -466,6 +466,10 @@ h2 {
 
 .footerlist a:visited:not(:hover) {
   color: #000;
+}
+
+.footer-logo {
+  width: 150px;
 }
 
 #nemad h3,
